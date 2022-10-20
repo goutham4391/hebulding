@@ -1,0 +1,1 @@
+:root{--read-time-color:var(--color-neutral-warm-grey);--read-time-icon-color:var(--color-brand-unilever-blue)}.uol-c-read-time{align-items:center;color:var(--read-time-color);column-gap:var(--space-2);display:flex;flex-wrap:nowrap}.uol-c-read-time__icon{color:var(--read-time-icon-color);margin-block-end:-.0625rem}
